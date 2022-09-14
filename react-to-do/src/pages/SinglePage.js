@@ -14,7 +14,7 @@ const SinglePage = () => {
       slug: 'about-author',
       title: 'About the Author',
       description:
-      'This app was developed by Oyinlade Ojesanmi, a web developer student at Microverse and a technical writer. She is opened to freelance Gig and job opportunities',
+      'This app was developed by Kehinde Ridwan Onifade, a web developer student at Microverse. He is opened to freelance Gig and job opportunities',
     },
   ];
 
